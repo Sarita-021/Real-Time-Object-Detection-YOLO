@@ -12,19 +12,19 @@ Real time detection can be use via command prompt or GUI.
 		<th><strong>A USA Real-Time Road Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>		
+		<td><img src="https://github.com/Sarita-021/Real-Time-Object-Detection-YOLO/blob/main/doc/detector1.gif"></td>		
 	</tr>
 	<tr align="center">
 		<th><strong>A UK Real-Time Road Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector2.gif"></td>
+		<td><img src="https://github.com/Sarita-021/Real-Time-Object-Detection-YOLO/blob/main/doc/detector2.gif"></td>
 	</tr>
 	<tr align="center">
 		<th><strong>A Real-Time Webcam Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td style="width: 100%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg"></td>
+		<td style="width: 100%;"><img src="https://github.com/Sarita-021/Real-Time-Object-Detection-YOLO/blob/main/doc/webcam_detector.jpg"></td>
 	</tr>
 </tbody>
 </table>
@@ -60,7 +60,7 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 ## How to use?
 <ol>
   <li>Clone the repository</li>
-  <p><code>git clone https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection.git</code></p>
+  <p><code>git clone https://github.com/Sarita-021/Real-Time-Object-Detection-YOLO.git</code></p>
 </ol>
 <ol start="2">
   <li>Move to the directory</li>
@@ -79,12 +79,3 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
   <p><code>python real_time_yolo_webcam.py</code></p>
 </ol>
 
-## Graphical User Interface:
-#### A USA Real-Time Road Detection
-<img src="https://user-images.githubusercontent.com/45601530/79018190-a4dff500-7b8c-11ea-8866-119735d7c8fc.jpg">
-
-#### A UK Real-Time Road Detection
-<img src="https://user-images.githubusercontent.com/45601530/79018201-aad5d600-7b8c-11ea-9844-b93a98fd0e00.jpg">
-
-#### A Real-Time Webcam Detection
-<img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg">
